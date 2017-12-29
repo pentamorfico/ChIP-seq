@@ -1,3 +1,8 @@
+## This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+## Author: Mario Rodríguez Mestre, Sandra Robles Borrego
+## Date: November 2017
+## Email: mariorguez@correo.ugr.es
+
 #$ -S /bin/bash
 #$ -V
 #$ -cwd
